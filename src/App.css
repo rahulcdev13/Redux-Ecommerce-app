@@ -1,0 +1,18 @@
+ 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --mainColor: #f57224;
+    --whiteColor: #fff;
+    --blackColor: #000;
+    --lightDark: #222;
+  
+  }
+  
+  body {
+    font-family: 'Lato', sans-serif;
+  }
